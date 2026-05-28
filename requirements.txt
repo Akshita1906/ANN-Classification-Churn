@@ -1,7 +1,9 @@
-tensorflow
+tensorflow-cpu==2.16.1
 pandas
 numpy
 scikit-learn
 tensorboard
 matplotlib
-streamlit
+streamlit==1.35.0
+h5py
+protobuf==3.20.*
